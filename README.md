@@ -1,4 +1,8 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+<div>
+## Olá! Eu sou o Guilherme Bezerra
+  <p> 🖥️ Programador Back-And Junior! </p>
+  <p> 📖 Atualmente estou estudando django <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"> </p>
+ </div>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilgb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
