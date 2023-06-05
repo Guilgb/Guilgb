@@ -1,7 +1,7 @@
 <div>
 ## Olá! Eu sou o Guilherme Bezerra
   <p> 🖥️ Programador Back-And Junior! </p>
-  <p> 📖 Atualmente estou estudando django <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"> </p>
+  <p> 📖 Atualmente estou estudando Typescript <img align="center" alt="Rafa-Python" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)"> </p>
  </div>
 <div align="center">
   <a href="https://github.com/rafaballerini">
